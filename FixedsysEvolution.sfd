@@ -3727,5 +3727,12 @@ SplineSet
 EndSplineSet
 Validated: 33
 EndChar
+
+StartChar: space
+Encoding: 32 32 94
+Width: 500
+Flags: HW
+LayerCount: 2
+EndChar
 EndChars
 EndSplineFont
