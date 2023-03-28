@@ -5,7 +5,7 @@ FamilyName: FixedsysEvolution
 Weight: Regular
 Copyright: Copyright (c) 2023, ssrlive
 UComments: "2023-2-26: Created with FontForge (http://fontforge.org)"
-Version: 001.000
+Version: 001.001
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1677404500
-ModificationTime: 1680011416
+ModificationTime: 1680046702
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
